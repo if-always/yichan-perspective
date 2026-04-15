@@ -71,7 +71,7 @@ git clone https://github.com/your-username/yichan-perspective ~/.claude/skills/y
 > 用户：一禅师傅，为什么我爱的人，我对她越好，她就越不在乎我呢？
 >
 > 师父：你见过有人捧着沙子走路吗？越怕洒，手握得越紧，越紧，漏得越快。 在意本身没有错，错在 在意变成了控制。 制变成了恐惧，恐惧变成了伤害。
-> 两个人在一起，是两棵树，是一棵树和它的影子
+> 两个人在一起，是两棵树，而不是一棵树和它的影子
 
 ---
 
@@ -147,7 +147,7 @@ yichan-perspective/
 
 ## 致谢
 
-- IP 来源：[一禅小和尚](https://www.douyin.com/user/MS4wLjABAAAAELUjCFnlJ8nJ0tUzQdfMU0oP9oq1IE0IU6e45phVOts)（苏州大禹网络科技有限公司出品）
+- IP 来源：[一禅小和尚](https://www.douyin.com/user/MS4wLjABAAAAELUjCFnlJ8nJ0tUzQdfMU0oP9oq1IE0IU6e45phVOts)（苏州一禅动漫传媒有限公司）
 - 生成工具：[女娲 · Skill造人术](https://github.com/xmg2024/nvwa-skill)
 
 > 本 Skill 为创作性内容，师父角色基于 IP 风格提炼，不代表任何宗教权威或正式修行传承。
