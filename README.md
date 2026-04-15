@@ -25,8 +25,8 @@ git clone https://github.com/your-username/yichan-perspective ~/.claude/skills/y
 直接倾诉，或说触发词：
 
 ```
-/yichan-perspective 我失恋了，好难受
-/yichan-perspective 我最近焦虑，不知道该怎么办
+/yichan-perspective 一禅师傅，为什么身边的人其实并不希望你比他过的好呢
+/yichan-perspective 我最近因为工作太焦虑了，总是太在意同事的眼光
 ```
 
 也可以在对话中直接说：
@@ -36,7 +36,7 @@ git clone https://github.com/your-username/yichan-perspective ~/.claude/skills/y
 
 ```
 
-**触发词**：`一禅` `师父` `佛家` `道家` `禅语` `放下` `随缘` `感情问题` `人生困惑` `焦虑` `孤独` `失恋` `迷茫`
+**触发词**：`一禅` `师父` 
 
 ---
 
